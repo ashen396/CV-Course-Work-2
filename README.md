@@ -65,16 +65,3 @@ This project implements a License Plate Recognition (LPR) system using TensorFlo
 > InceptionResNetV2 showed superior performance in both detection accuracy and OCR clarity after cropping.
 
 ---
-
-## 🖼️ Sample Output
-
-1. Vehicle image → 2. Detected license plate (bounding box) → 3. Cropped → 4. OCR → 5. Extracted text
-
----
-
-## 🚀 How to Run
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/yourusername/license-plate-recognition.git
-cd license-plate-recognition
